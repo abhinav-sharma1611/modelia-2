@@ -38,7 +38,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ### Time Spent
 
-- **Total hours to complete the challenge:** _X hours_ <!-- Replace X with your actual time -->
+- **Total hours to complete the challenge:** 4 hours 
 
 ### AI Tools Used
 
